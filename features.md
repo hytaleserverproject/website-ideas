@@ -39,3 +39,17 @@ What features are we going to want the website to have?
 
 ## Frontend
 - [Vue.js](https://vuejs.org)
+
+## E-Commerce
+- [CommerceJS](https://commercejs.com/) - for Frontend
+- [goCommerce](https://github.com/netlify/gocommerce) - for Backend
+
+
+# Hosting
+- Website Hosting - $40/year?
+- Domain Name (like from Namecheap?) - .io, .gg, .ca, .zone, .game (pricey), .games, .fun, etc. - $25/year?
+- [PorkBun?](https://porkbun.com/?ref=371_760db1ec)
+- Backend Hosting (DigitalOcean?) - $100/year?
+
+# Learning all this
+- [Scrimba](https://scrimba.com/)
